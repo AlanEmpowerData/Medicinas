@@ -1,0 +1,184 @@
+{
+    "Medicinas": [
+        {
+        "id": 1,
+        "nombreMedicina": "Paracetamol",
+        "nombreFarmacia": "Farmacias San Juan Pablo",
+        "compuestoActivo": "Paracetamol",
+        "presentacion": "24 Pastillas de 500gr",
+        "latitud": 19.41208871,
+        "longitud": -99.17387133
+        },
+        {
+        "id": 2,
+        "nombreMedicina": "Paracetamol",
+        "nombreFarmacia": "Farmacias San Juan Pablo",
+        "compuestoActivo": "Paracetamol",
+        "presentacion": "12 Pastillas de 200gr",
+        "latitud": 19.41208871,
+        "longitud": -99.17387133
+        },
+        {
+        "id": 3,
+        "nombreMedicina": "Aspirina",
+        "nombreFarmacia": "Farmacias Covadonga",
+        "compuestoActivo": "Acido acetil salicilico",
+        "presentacion": "12 Pastillas de 500gr",
+        "latitud": 19.45650034,
+        "longitud": -99.1402257
+        },
+        {
+        "id": 4,
+        "nombreMedicina": "Aspin",
+        "nombreFarmacia": "Farmacias San Juan Pablo",
+        "compuestoActivo": "Acido acetil salicilico",
+        "presentacion": "12 Pastillas de 500gr",
+        "latitud": 19.41208871,
+        "longitud": -99.17387133
+        },
+        {
+        "id": 5,
+        "nombreMedicina": "Acido acetil salicilico",
+        "nombreFarmacia": "Farmacias Similares",
+        "compuestoActivo": "Acido acetil salicilico",
+        "presentacion": "24 Pastillas de 500gr",
+        "latitud": 19.38810068,
+        "longitud": -99.13026934
+        },
+        {
+        "id": 6,
+        "nombreMedicina": "Omeprazol",
+        "nombreFarmacia": "Farmacias San Juan Pablo",
+        "compuestoActivo": "Omeprazol",
+        "presentacion": "10 Pastillas de 40gr",
+        "latitud": 19.41208871,
+        "longitud": -99.17387133
+        },
+        {
+        "id": 7,
+        "nombreMedicina": "Losec",
+        "nombreFarmacia": "Farmacias San Juan Pablo",
+        "compuestoActivo": "Omeprazol",
+        "presentacion": "14 Pastillas de 40mg",
+        "latitud": 19.41208871,
+        "longitud": -99.17387133
+        },
+        {
+        "id": 8,
+        "nombreMedicina": "Losec A-20",
+        "nombreFarmacia": "Farmacias del Ahorro",
+        "compuestoActivo": "Omeprazol",
+        "presentacion": "7 Pastillas de 20gr",
+        "latitud": 19.32331711,
+        "longitud": -99.17060977
+        },
+        {
+        "id": 9,
+        "nombreMedicina": "Ramipril",
+        "nombreFarmacia": "Farmacias del Ahorro",
+        "compuestoActivo": "Ramipril",
+        "presentacion": "16 Pastillas de 2.5gr",
+        "latitud": 19.32331711,
+        "longitud": -99.17060977
+        },
+        {
+        "id": 10,
+        "nombreMedicina": "Ramipril Aicore",
+        "nombreFarmacia": "Farmacias San Juan Pablo",
+        "compuestoActivo": "Ramipril",
+        "presentacion": "30 Pastillas de 5gr",
+        "latitud": 19.41208871,
+        "longitud": -99.17387133
+        },
+        {
+        "id": 11,
+        "nombreMedicina": "Tritace",
+        "nombreFarmacia": "Farmacias Covadonga",
+        "compuestoActivo": "Ramipril",
+        "presentacion": "16 Pastillas de 5gr",
+        "latitud": 19.45650034,
+        "longitud": -99.1402257
+        },
+        {
+        "id": 12,
+        "nombreMedicina": "Salbutamol",
+        "nombreFarmacia": "Farmacias San Juan Pablo",
+        "compuestoActivo": "Salbutamol",
+        "presentacion": "100 microgramos suspension",
+        "latitud": 19.41208871,
+        "longitud": -99.17387133
+        },
+        {
+        "id": 13,
+        "nombreMedicina": "Ventonil",
+        "nombreFarmacia": "Farmacias del Ahorro",
+        "compuestoActivo": "Salbutamol",
+        "presentacion": "200 dosis de 0.1mg",
+        "latitud": 19.32331711,
+        "longitud": -99.17060977
+        },
+        {
+        "id": 14,
+        "nombreMedicina": "KY6",
+        "nombreFarmacia": "Farmacias San Juan Pablo",
+        "compuestoActivo": "Clorfenamina",
+        "presentacion": "10 Pastillas de 500gr",
+        "latitud": 19.41208871,
+        "longitud": -99.17387133
+        },
+        {
+        "id": 15,
+        "nombreMedicina": "Clorfenamina",
+        "nombreFarmacia": "Farmacias del Ahorro",
+        "compuestoActivo": "Clorfenamina",
+        "presentacion": "20 Pastillas de 4gr",
+        "latitud": 19.32331711,
+        "longitud": -99.17060977
+        },
+        {
+        "id": 16,
+        "nombreMedicina": "Amoxicilina",
+        "nombreFarmacia": "Farmacias del Ahorro",
+        "compuestoActivo": "Amoxicilina",
+        "presentacion": "12 Pastillas de 500gr",
+        "latitud": 19.32331711,
+        "longitud": -99.17060977
+        },
+        {
+        "id": 17,
+        "nombreMedicina": "Amoxicilina",
+        "nombreFarmacia": "Farmacias San Juan Pablo",
+        "compuestoActivo": "Amoxicilina",
+        "presentacion": "12 Pastillas de 500gr",
+        "latitud": 19.41208871,
+        "longitud": -99.17387133
+        },
+        {
+        "id": 18,
+        "nombreMedicina": "Amoxil",
+        "nombreFarmacia": "Farmacias San Juan Pablo",
+        "compuestoActivo": "Amoxicilina",
+        "presentacion": "12 Pastillas de 500gr",
+        "latitud": 19.41208871,
+        "longitud": -99.17387133
+        },
+        {
+        "id": 19,
+        "nombreMedicina": "Ceftriaxona",
+        "nombreFarmacia": "Farmacias San Juan Pablo",
+        "compuestoActivo": "Ceftriaxona",
+        "presentacion": "Solucion inyectable 1g",
+        "latitud": 19.41208871,
+        "longitud": -99.17387133
+        },
+        {
+        "id": 20,
+        "nombreMedicina": "Amsef",
+        "nombreFarmacia": "Farmacias San Juan Pablo",
+        "compuestoActivo": "Ceftriaxona",
+        "presentacion": "Solucion inyectable 500gr",
+        "latitud": 19.41208871,
+        "longitud": -99.17387133
+        }
+    ]
+}

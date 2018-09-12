@@ -1,0 +1,40 @@
+.Home {
+  text-align: center;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Home-logo {
+  height: 150px;
+}
+
+.Home-text {
+  font-size: 0.8em;
+  color: #0F69B5;
+}
+
+.Home-box {
+  width: 300px;
+  padding: 6px 6px;
+  color: #0F69B5;
+  font-size: 1.2em;
+}
+
+.Home-submit {
+  display: inline-block;
+  width: 38px;
+  height: 38px;
+  background: #0F69B5;
+  background-image: url('/images/searchicon.png');
+  border: none;
+  position: relative; 
+  top: 2px;
+}
+
+.glyphicon.glyphicon-search{
+  color: white;
+  font-size: 1.5em;
+}

@@ -1,0 +1,102 @@
+.Header {
+  text-align: Left;
+  margin: 0;
+}
+
+.Header-logo {
+  height: 100px;
+}
+
+.Header-box {
+  width: 300px;
+  padding: 6px 6px;
+  color: #0F69B5;
+  font-size: 1.2em;
+}
+
+.Header-submit {
+  display: inline-block;
+  width: 38px;
+  height: 38px;
+  background: #0F69B5;
+  background-image: url('/images/searchicon.png');
+  border: none;
+  position: relative; 
+  top: 2px;
+}
+
+.Header-combobox {
+  width: 250px;
+  padding: 6px 6px;
+  color: #0F69B5;
+  font-size: 1.2em;
+  float: right;
+}
+
+.Medicine-box {
+  margin: auto;
+  width: 98%;
+  height: 220px;
+  background-color: #0F69B5;
+  padding: 10px;
+}
+
+.Medicine-table{
+  display: table;
+  width: 100%;
+}
+
+
+.Medicine-img {
+  height: 200px;
+}
+
+.Medicine-photo {
+  width: 30%;
+}
+
+.Medicine-title {
+  font-size: 2em;
+  color: #FFFFFF;
+  text-align: left;
+  width: 50%;
+}
+
+.Medicine-text {
+  font-size: 0.8em;
+  color: #FFFFFF;
+  text-align: left;
+}
+
+.Medicine-text a {
+  color: #FFFFFF;
+  text-decoration: underline;
+}
+
+.Medicine-price {
+  font-size: 2.5em;
+  color: #FFFFFF;
+  text-align: center;
+  width: 20%;
+}
+
+.GridContainer-table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.GridContainer-column {
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.glyphicon.glyphicon-search {
+  color: white;
+  font-size: 1.50em;
+}
+
+.Divisor {
+  color: #0F69B5;
+  background-color: #0F69B5;
+  height: 5px;
+}
